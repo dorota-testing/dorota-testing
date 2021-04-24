@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Dorota.
 - 👀 I’m interested in everything PHP related. 
 - 🌱 I’m currently learning OOP PHP and frameworks, and also some javascript (React).
+- 📚 All my repos are study projects, excercises and coding challenges.
 
 
 <!---
